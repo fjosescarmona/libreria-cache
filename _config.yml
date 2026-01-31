@@ -2,5 +2,6 @@ title: Librería Cache
 description: Documentación oficial de Librería de cache
 theme: minima
 
-# Opcional pero recomendado
-markdown: kramdown
+collections:
+  docs:
+    output: true
