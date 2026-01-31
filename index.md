@@ -11,8 +11,8 @@ Documentación oficial de **Librería Cache**.
 
 ## 🚀 Contenido
 
-- 📘 [Cómo usar la librería](/libreria-cache/docs/como-usar.html)
-- 📘 [Recomendaciones](/libreria-cache/docs/recomendaciones.html)
+- 📘 [Cómo usar la librería](/libreria-cache/docs/como-usar)
+- 📘 [Recomendaciones](/libreria-cache/docs/recomendaciones)
 
 ---
 
