@@ -1,7 +1,6 @@
-title: Mi Documentación
-description: Documentación centralizada de librerías
+title: Librería Cache
+description: Documentación oficial de Librería de cache
 theme: minima
 
-collections:
-  docs:
-    output: true
+# Opcional pero recomendado
+markdown: kramdown

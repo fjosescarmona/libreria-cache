@@ -1,0 +1,12 @@
+---
+layout: default
+title: Recomendaciones Librería cache
+---
+
+# 🛠 Recomendaciones Librería cache
+
+## 📦 buenas practicas
+
+Esto es un ejemplo de recomendaciones para usar la libreria de cache.
+
+Aqui encontraremos las buenas practicas para su uso.
