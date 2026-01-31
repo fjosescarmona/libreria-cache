@@ -1,6 +1,7 @@
 ---
 title: Cómo usar Librería A
 ---
+[⬅ Volver al inicio](../)
 
 # 🛠 Cómo usar Librería A
 
