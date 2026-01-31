@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Cómo usar Librería A
 ---
 
